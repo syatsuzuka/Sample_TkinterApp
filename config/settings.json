@@ -1,0 +1,10 @@
+{
+    "Version": "1.0.0",
+    "IconFile": "uipath.ico",
+    "WinTitle": "Sample Tkinter App",
+    "WinSize": "500x300",
+    "WinHeader": "GUI Component for Testing",
+    "WinHeaderStyle": "bold 16",
+    "PadX": 5,
+    "PadY": 5
+}

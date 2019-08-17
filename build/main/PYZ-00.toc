@@ -1,0 +1,557 @@
+('C:\\Users\\Shunjiro Yatsuzuka\\Sample_TkinterApp\\build\\main\\PYZ-00.pyz',
+ [('ntpath',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\datetime.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\shlex.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\platform.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\pprint.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\doctest.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\selectors.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\os.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\token.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\copy.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\struct.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\gettext.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\argparse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('gui.MainWindow',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Sample_TkinterApp\\src\\gui\\MainWindow.py',
+   'PYMODULE'),
+  ('gui',
+   'C:\\Users\\Shunjiro Yatsuzuka\\Sample_TkinterApp\\src\\gui\\__init__.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Shunjiro '
+   'Yatsuzuka\\Anaconda3\\envs\\SampleTkInter\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
